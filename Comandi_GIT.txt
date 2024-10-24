@@ -22,7 +22,7 @@
 
 - git checkout nomeBranch ➡️ sposta l'area di lavoro su un branch ramificato o per tornare sul branch principale; 
 
-- git branch ➡️ stampa un elenco di branch presenti nel progetto; 
+- git branch ➡️ stampa un elenco di branch presenti nel progetto;
 
 
 
