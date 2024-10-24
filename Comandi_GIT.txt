@@ -1,0 +1,9 @@
+- git intit --> Per creare una Repository Locale; 
+- git status --> Effettua un controllo sullo stato della Repository; 
+- git add Nome_file --> traccia i file nuovi o modificati; 
+- git add .ext --> traccia tutti i file con quella estensione (.ext); 
+- git add . --> traccia tutti i file; 
+- git rm --cached nomeFile --> rimuove i file appenna aggiunti nella Stagin Area (con add) per non salvarli nella repository locale; 
+- git commit -m "messaggio del commit" --> salvo i file tracciati nella Stagin Area nella Repository locale; 
+
+ 
